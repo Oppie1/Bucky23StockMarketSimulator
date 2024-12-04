@@ -1,0 +1,4 @@
+﻿  StockSimulator23.cpp
+C:\Users\atind\source\repos\Bucky23StockMarketSimulator\StockSimulator23.cpp(9,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\atind\source\repos\Bucky23StockMarketSimulator\StockSimulator23.cpp(12,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bucky23StockMarketSimulator.vcxproj -> C:\Users\atind\source\repos\Bucky23StockMarketSimulator\x64\Debug\Bucky23StockMarketSimulator.exe
